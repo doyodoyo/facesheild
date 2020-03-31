@@ -12,7 +12,15 @@
 4. rubber band（輪ゴム）
 
 ## 3DPrint
-3print this stl file. （下記のstlファイルをダウンロードして3Dプリントしてください）
-[viser](https://doyodoyo.github.io/facesheild/data/viser.stl)
+3print this stl file. （このstlファイルをダウンロードして3Dプリントしてください）
+[viser.stl](https://doyodoyo.github.io/facesheild/data/viser.stl)
 
 ![printed viser](https://doyodoyo.github.io/facesheild/images/1.jpeg)
+
+## print
+print this pdf file. (このpdfファイルを印刷してください）
+[hole.pdf](https://doyodoyo.github.io/facesheild/data/hole.pdf)
+
+
+![printed viser](https://doyodoyo.github.io/facesheild/images/2.jpeg)
+
