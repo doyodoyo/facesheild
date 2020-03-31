@@ -17,7 +17,7 @@
 [viser.stl](https://doyodoyo.github.io/facesheild/data/viser.stl)
 
 ※My design is redesigned from [this one](https://3dverkstan.se/protective-visor/?fbclid=IwAR2dOBuCgvJRfSbnNw2sQVR5AIrAJxr7Wq1vRLRMIpmgEuC3X23oNTrRbhc)
-このデザインは上記リンクのものを参考に設計しました。
+このデザインは [リンク](https://3dverkstan.se/protective-visor/?fbclid=IwAR2dOBuCgvJRfSbnNw2sQVR5AIrAJxr7Wq1vRLRMIpmgEuC3X23oNTrRbhc)のものを参考に設計しました。
 
 ![printed viser](https://doyodoyo.github.io/facesheild/images/1.jpeg)
 
