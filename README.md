@@ -24,3 +24,7 @@ print this pdf file. (このpdfファイルを印刷してください）
 
 ![printed viser](https://doyodoyo.github.io/facesheild/images/2.jpeg)
 
+## cut
+cut the file folder(クリアファイルをカッターで半分に切ります）
+![hole.pdf]
+
