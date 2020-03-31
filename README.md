@@ -4,6 +4,7 @@
 1. 3Dprinter(3Dプリンター)
 2. box cutter(カッター)
 3. pen(ボールペンかマジック)
+4. Hole punch(穴あけパンチ）
 
 ## materials
 1. Filament(I used PLA)
@@ -33,3 +34,4 @@ cut the file folder(クリアファイルをカッターで半分に切ります
 mark the hole point with printed paper(印刷した紙の上にクリアファイルをおいて、穴を開ける場所に印をつけます）
 
 ![mark](https://doyodoyo.github.io/facesheild/images/4.jpeg)
+
