@@ -42,3 +42,8 @@ mark the hole point with printed paper(印刷した紙の上にクリアファ�
 make a hole with a hole punch(穴あけパンチで穴を開けます）
 
 ![makehole](https://doyodoyo.github.io/facesheild/images/6.jpeg)
+
+## assemble
+assemble viser and file folder （組み立てます。）
+
+![assemble](https://doyodoyo.github.io/facesheild/images/7.jpeg)
