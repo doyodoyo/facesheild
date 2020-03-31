@@ -29,3 +29,7 @@ cut the file folder(クリアファイルをカッターで半分に切ります
 
 ![cut](https://doyodoyo.github.io/facesheild/images/3.jpeg)
 
+## mark
+mark the hole point with printed paper(印刷した紙の上にクリアファイルをおいて、穴を開ける場所に印をつけます）
+
+![mark](https://doyodoyo.github.io/facesheild/images/4.jpeg)
