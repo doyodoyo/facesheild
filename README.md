@@ -26,5 +26,6 @@ print this pdf file. (このpdfファイルを印刷してください）
 
 ## cut
 cut the file folder(クリアファイルをカッターで半分に切ります）
-![hole.pdf]
+
+![cut](https://doyodoyo.github.io/facesheild/images/3.jpeg)
 
