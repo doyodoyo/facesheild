@@ -35,3 +35,8 @@ mark the hole point with printed paper(印刷した紙の上にクリアファ�
 
 ![mark](https://doyodoyo.github.io/facesheild/images/4.jpeg)
 
+
+![makehole](https://doyodoyo.github.io/facesheild/images/5.jpeg)
+
+## punch
+make a hole with a hole punch(穴あけパンチで穴を開けます）
