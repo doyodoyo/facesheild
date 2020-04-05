@@ -16,7 +16,7 @@
 3print this stl file. （このstlファイルをダウンロードして3Dプリントしてください）
 [viser.stl](https://doyodoyo.github.io/facesheild/data/viser.stl)
 
-[まとめづくりようファイル](data/viserX5.stl)
+[5枚まとめづくり用ファイル(サポートをつけて出力してください)](data/viserX5.stl)
 
 ※My design is redesigned from [this one.](https://3dverkstan.se/protective-visor/?fbclid=IwAR2dOBuCgvJRfSbnNw2sQVR5AIrAJxr7Wq1vRLRMIpmgEuC3X23oNTrRbhc) 
 このデザインは [リンク](https://3dverkstan.se/protective-visor/?fbclid=IwAR2dOBuCgvJRfSbnNw2sQVR5AIrAJxr7Wq1vRLRMIpmgEuC3X23oNTrRbhc)のものを参考に設計しました。
