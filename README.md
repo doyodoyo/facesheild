@@ -59,3 +59,8 @@ make holes with a hole punch(穴あけパンチで穴を開けます）
 assemble viser and file folder （組み立てます。）
 
 ![assemble](https://doyodoyo.github.io/facesheild/images/7.jpeg)
+
+## attention
+If you use repeatedly, please disinfect or wash well with soap（繰り返し利用する場合は消毒するか、石鹸でよく洗浄してください。）
+
+
