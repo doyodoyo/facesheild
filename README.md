@@ -26,6 +26,9 @@
 
 ![printed viser](https://doyodoyo.github.io/facesheild/images/1.jpeg)
 
+まとめ作り
+![printed viser10](https://doyodoyo.github.io/facesheild/images/1-2.jpeg)
+
 ## print
 print this pdf file. (このpdfファイルを印刷してください）
 [hole.pdf](https://doyodoyo.github.io/facesheild/data/hole.pdf)
