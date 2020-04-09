@@ -17,6 +17,6 @@
 ![printed viser](images/ver1-2_1.jpeg)
 
 ## 小さいバージョン（特徴：速く造形できる＆輪ゴムより長いゴムが必要になる）
-現在テスト中
+作り方は[ここ](ver2_small/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。
 
 ![printed viser](images/ver2-2.jpeg)
