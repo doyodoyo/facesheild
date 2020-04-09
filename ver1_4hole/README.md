@@ -28,6 +28,7 @@
 print this pdf file. (このpdfファイルを印刷してください）
 [hole_ver2_small.pdf](hole_ver1_4hole.pdf)
 
+![printed paper](../images/ver1-2_2.jpeg)
 
 ## cut
 cut the file folder(クリアファイルをカッターで半分に切ります）
@@ -50,7 +51,7 @@ make holes with a hole punch(穴あけパンチで穴を開けます）
 ## assemble
 assemble viser and file folder （組み立てます。）
 
-![assemble](../images/ver2-1.jpeg)
+![assemble](../images/ver1-2_0.jpeg)
 
 ## attention
 If you use repeatedly, please disinfect or wash well with soap（繰り返し利用する場合は消毒するか、石鹸でよく洗浄してください。）
