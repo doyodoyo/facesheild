@@ -11,3 +11,6 @@
 作り方は[ここ](ver1_3hole)を参照してください。クリアファイルの穴あけ方法も書いてあります。
 ![printed viser](images/1.jpeg)
 
+## 小さいバージョン（特徴：速く造形できる＆輪ゴムより長いゴムが必要になる）
+現在テスト中
+![printed viser](images/ver2-1.jpeg)
