@@ -54,6 +54,6 @@ assemble viser and file folder （組み立てます。）
 ![assemble](../images/ver1-2_0.jpeg)
 
 ## attention
-If you use repeatedly, please disinfect or wash well with soap（繰り返し利用する場合は消毒するか、石鹸でよく洗浄してください。）
+If you use repeatedly, please disinfect or wash well with soap（繰り返し利用する場合は消毒してください。）
 
 
