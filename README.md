@@ -19,4 +19,4 @@
 ## 小さいバージョン（特徴：速く造形できる＆輪ゴムより長いゴムが必要になる）
 現在テスト中
 
-![printed viser](images/ver2-1.jpeg)
+![printed viser](images/ver2-2.jpeg)
