@@ -22,15 +22,12 @@
 3print this stl file. （このstlファイルをダウンロードして3Dプリントしてください）
 [stlファイル](viser_ver1_4hole.stl)
 
-![printed viser](../images/ver2-2.jpeg)
-
+![printed viser](../images/ver1-2_1.jpeg)
 
 ## print
 print this pdf file. (このpdfファイルを印刷してください）
-[hole_ver2_small.pdf](hole_ver2_small.pdf)
+[hole_ver2_small.pdf](hole_ver1_4hole.pdf)
 
-
-![printed viser](../images/ver1-2_1.jpeg)
 
 ## cut
 cut the file folder(クリアファイルをカッターで半分に切ります）
