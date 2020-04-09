@@ -27,7 +27,7 @@ print this pdf file. (このpdfファイルを印刷してください）
 [hole_ver2_small.pdf](hole_ver2_small.pdf)
 
 
-![printed viser](../images/ver2-3.png)
+![printed viser](../images/ver2-3.jpeg)
 
 ## cut
 cut the file folder(クリアファイルをカッターで半分に切ります）
