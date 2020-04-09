@@ -26,7 +26,7 @@
 
 ## print
 print this pdf file. (このpdfファイルを印刷してください）
-[hole_ver2_small.pdf](hole_ver1_4hole.pdf)
+[穴位置ファイル](hole_ver1_4hole.pdf)
 
 ![printed paper](../images/ver1-2_2.jpeg)
 
