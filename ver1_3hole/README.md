@@ -24,8 +24,6 @@
 [viserX10.stl(10枚)](viserX10.stl)
 [viserX15.stl(15枚)](viserX15.stl)
 
-※My design is redesigned from [this one.](https://3dverkstan.se/protective-visor/?fbclid=IwAR2dOBuCgvJRfSbnNw2sQVR5AIrAJxr7Wq1vRLRMIpmgEuC3X23oNTrRbhc) 
-このデザインは [リンク](https://3dverkstan.se/protective-visor/?fbclid=IwAR2dOBuCgvJRfSbnNw2sQVR5AIrAJxr7Wq1vRLRMIpmgEuC3X23oNTrRbhc)のものを参考に設計しました。
 
 ![printed viser](../images/1.jpeg)
 
