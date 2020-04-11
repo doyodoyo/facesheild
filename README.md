@@ -10,7 +10,7 @@
 # 作り方
 いくつかバージョンがあります。
 
-## ベーシックモデル（初期）
+## basicモデル（初期）
 作り方は[ここ](ver1_3hole/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。
 ![printed viser](images/1.jpeg)
 
@@ -20,7 +20,7 @@
 
 ![printed viser](images/ver2-2.jpeg)
 
-## ハイブリッドモデル（特徴：クリアファイルの穴が開けやすい）
+## easyモデル（特徴：クリアファイルの穴が開けやすい）
 作り方は[ここ](ver1_4hole/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。
 
 ![printed viser](images/ver1-2_1.jpeg)
