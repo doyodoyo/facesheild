@@ -10,7 +10,7 @@
 4. Hole punch(穴あけパンチ）
 
 ## materials
-1. Filament(I used PLA)
+1. Filament(PLA,PETG)
 2. A4 sized file folder (A4クリアファイル)
 3. A4 sized paper(A4の紙)
 4. rubber band（輪ゴム）
