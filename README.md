@@ -14,11 +14,6 @@
 # 作り方
 いくつかバージョンがあります。
 
-## basicモデル（初期）
-作り方は[ここ](ver1_3hole/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。
-![printed viser](images/1.jpeg)
-
-
 ## fastモデル（特徴：速く造形できる＆輪ゴムより長いゴムが必要になる）
 作り方は[ここ](ver2_small/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。
 
@@ -28,4 +23,8 @@
 作り方は[ここ](ver1_4hole/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。
 
 ![printed viser](images/ver1-2_1.jpeg)
+
+## basicモデル（初期）
+作り方は[ここ](ver1_3hole/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。
+![printed viser](images/1.jpeg)
 
