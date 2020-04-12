@@ -32,7 +32,7 @@
 
 ## print
 print this pdf file. (このpdfファイルを印刷してください）
-[hole_ver2_small.pdf](hole_ver2_hybrid.pdf)
+[hole_ver2_hybrid.pdf](hole_ver2_hybrid.pdf)
 
 
 ![printed viser](../images/ver1-2_2.jpeg)
