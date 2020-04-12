@@ -17,7 +17,7 @@
 ## hybridモデル（特徴：穴あけが簡単＆短時間造形＆輪ゴムより長いゴムが必要になる）
 作り方は[ここ](ver2_hybrid/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。
 
-![printed viser](images/ver2h-1.jpeg)
+![printed viser](images/ver2h-1.png)
 
 ## fastモデル（特徴：短時間造形＆輪ゴムより長いゴムが必要になる）
 作り方は[ここ](ver2_small/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。
