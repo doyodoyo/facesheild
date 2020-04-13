@@ -23,7 +23,8 @@
 4. rubber band（平ゴム等のバンド）
 
 ## 3DPrint
-3print this stl file. （このstlファイルをダウンロードして3Dプリントしてください）
+3print this stl file. （stlファイルをダウンロードして3Dプリントしてください）
+
 A4クリアファイルを横に使う場合
 [stl-A4横](fast.stl)
 
@@ -35,6 +36,7 @@ A4クリアファイルを縦に使う場合
 
 ## print
 print this pdf file. (このpdfファイルを印刷してください）
+
 A4クリアファイルを横に使う場合
 [台紙A4横](hole-fast.pdf)
 
