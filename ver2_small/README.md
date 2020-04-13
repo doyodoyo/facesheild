@@ -28,19 +28,19 @@
 A4クリアファイルを横に使う場合
 [stl-A4横](fast.stl)
 
-A4クリアファイルを縦に使う場合
+A4クリアファイルを縦に使う場合(ツメの位置が横とは異なります。)
 [stl-A4縦](fast-typeV.stl)
 
 ![printed viser](../images/ver2-2.jpeg)
 
 
 ## print
-print this pdf file. (このpdfファイルを印刷してください）
+print this pdf file. (pdfファイルを印刷してください）
 
 A4クリアファイルを横に使う場合
 [台紙A4横](hole-fast.pdf)
 
-A4クリアファイルを縦に使う場合
+A4クリアファイルを縦に使う場合(穴の位置が横とは異なります。)
 [台紙A4縦](hole-fast-typeV.pdf)
 
 
