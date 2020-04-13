@@ -24,14 +24,20 @@
 
 ## 3DPrint
 3print this stl file. （このstlファイルをダウンロードして3Dプリントしてください）
-[viser_ver2_small.stl](viser_ver2_small.stl)
+A4クリアファイルを横に使う場合
+[stl-A4横](fast.stl)
+A4クリアファイルを縦に使う場合
+[stl-A4縦](fast-typeV.stl)
 
 ![printed viser](../images/ver2-2.jpeg)
 
 
 ## print
 print this pdf file. (このpdfファイルを印刷してください）
-[hole_ver2_small.pdf](hole_ver2_small.pdf)
+A4クリアファイルを横に使う場合
+[台紙A4横](hole-fast.pdf)
+A4クリアファイルを縦に使う場合
+[台紙A4縦](hole-fast-typeV.pdf)
 
 
 ![printed viser](../images/ver2-3.jpeg)
