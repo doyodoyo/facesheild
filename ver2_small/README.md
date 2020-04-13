@@ -26,6 +26,7 @@
 3print this stl file. （このstlファイルをダウンロードして3Dプリントしてください）
 A4クリアファイルを横に使う場合
 [stl-A4横](fast.stl)
+
 A4クリアファイルを縦に使う場合
 [stl-A4縦](fast-typeV.stl)
 
@@ -36,6 +37,7 @@ A4クリアファイルを縦に使う場合
 print this pdf file. (このpdfファイルを印刷してください）
 A4クリアファイルを横に使う場合
 [台紙A4横](hole-fast.pdf)
+
 A4クリアファイルを縦に使う場合
 [台紙A4縦](hole-fast-typeV.pdf)
 
