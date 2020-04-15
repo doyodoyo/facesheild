@@ -16,6 +16,14 @@
 # 作り方
 いくつかバージョンがあります。　造形時間は造形スピード60mm/s,積層ピッチ0.2mmの場合。参考原価は1kg3000円のフィラメントを使った場合のフィラメント費用。比較対象として記載しておくと[PRUSA](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2)のFacesheildは造形時間203分、参考原価132円になります。ご自身の活用にあったものをお使いください。
 
+## fastモデル（特徴：短時間造形＆輪ゴムより長いゴムが必要になる）
+作り方は[ここ](ver2_small/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。
+
+最も造形時間が短く（31分）、単価が安い。参考原価（21円）
+
+![printed viser](images/ver2-2.jpeg)
+
+
 ## hybridモデル（特徴：fastモデルとeasyモデルを掛け合わせたもの）
 作り方は[ここ](ver2_hybrid/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。
 
@@ -24,13 +32,8 @@
 
 ![printed viser](images/ver2h-1.png)
 
-## fastモデル（特徴：短時間造形＆輪ゴムより長いゴムが必要になる）
-作り方は[ここ](ver2_small/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。
 
-最も造形時間が短く（31分）、単価が安い。参考原価（21円）
 
-![printed viser](images/ver2-2.jpeg)
-D
 ## easyモデル（特徴：クリアファイルの穴が開けやすい）
 作り方は[ここ](ver1_4hole/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。ゴム掛け部分は[3DVerkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)のオープンソースデザインを参考にしています。
 
