@@ -23,6 +23,8 @@ A4クリアファイルを縦横どちらの向きにでも使えます。
 
 ![printed viser](../images/ver2-2.jpeg)
 
+[10個まとめ作り用データ](fast-typeVX10.stl)
+
 
 ## print
 print this pdf file. (pdfファイルを印刷してください）
