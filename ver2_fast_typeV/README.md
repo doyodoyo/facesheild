@@ -38,7 +38,7 @@ print this pdf file. (pdfファイルを印刷してください）
 [fast-typeV.stl](hole-fast-typeV.pdf)
 
 
-![printed viser](../images/ver2-3.jpeg)
+![printed viser](../images/fastV-02.jpeg)
 
 ## cut
 cut the file folder(クリアファイルをカッターで半分に切ります）
