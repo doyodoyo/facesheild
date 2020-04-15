@@ -23,7 +23,7 @@
 
 最も造形時間が短く（31分）、単価が安い。参考原価（21円）
 
-![printed viser](images/ver2-2.jpeg)
+![printed viser](images/fastV-01.jpeg)
 
 ## fastモデル
 特徴：短時間造形、A4クリアファイルは横向きでしか使えない、輪ゴムより長いゴムが必要になる
