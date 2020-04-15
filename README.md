@@ -32,7 +32,7 @@
 ![printed viser](images/ver2-2.jpeg)
 D
 ## easyモデル（特徴：クリアファイルの穴が開けやすい）
-作り方は[ここ](ver1_4hole/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。ゴム掛け部分は[3DVerkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)のオープンソースデザインを採用しています。
+作り方は[ここ](ver1_4hole/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。ゴム掛け部分は[3DVerkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)のオープンソースデザインを参考にしています。
 
 フィット感が良い。穴の間隔が穴あけパンチの間隔になっているので、穴あけが簡単。
 造形時間は少し長い(60分)参考原価（42円）
@@ -41,7 +41,7 @@ D
 ![printed viser](images/ver1-2_1.jpeg)
 
 ## basicモデル（初期）
-作り方は[ここ](ver1_3hole/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。ゴム掛け部分は[3DVerkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)のオープンソースデザインを採用しています。
+作り方は[ここ](ver1_3hole/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。ゴム掛け部分は[3DVerkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)のオープンソースデザインを参考にしています。
 
 フィット感は最も良い。
 造形時間は少し長い(64分)参考原価（45円）
