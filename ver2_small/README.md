@@ -25,10 +25,10 @@
 ## 3DPrint
 3print this stl file. （stlファイルをダウンロードして3Dプリントしてください）
 
-推奨：A4クリアファイルを縦横両方使える
+推奨：fast-typeV:A4クリアファイルを縦横両方使える
 [stl-A4縦](fast-typeV.stl)
 
-旧版：A4クリアファイルを横にしか使えない
+旧版：fast:A4クリアファイルを横にしか使えない
 [stl-A4横](fast.stl)
 
 ![printed viser](../images/ver2-2.jpeg)
@@ -37,10 +37,10 @@
 ## print
 print this pdf file. (pdfファイルを印刷してください）
 
-推奨：A4クリアファイルを縦横両方使える
+推奨：fast-typeV:A4クリアファイルを縦横両方使える
 [台紙A4縦](hole-fast-typeV.pdf)
 
-旧版：A4クリアファイルを横にしか使えない
+旧版：fast:A4クリアファイルを横にしか使えない
 [台紙A4横](hole-fast.pdf)
 
 ![printed viser](../images/ver2-3.jpeg)
