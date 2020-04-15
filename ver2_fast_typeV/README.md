@@ -25,6 +25,10 @@ A4クリアファイルを縦横どちらの向きにでも使えます。
 
 [10個まとめ作り用データ](fast-typeVX10.stl)
 
+![printed viser](../images/fastV-04.jpeg)
+
+写真は10個づくりデータを３つ並べたもの
+
 
 ## print
 print this pdf file. (pdfファイルを印刷してください）
