@@ -17,8 +17,8 @@
 ## 3DPrint
 3print this stl file. （stlファイルをダウンロードして3Dプリントしてください）
 
-fast:A4クリアファイルを横にしか使えない
-[stl-A4横](fast.stl)
+fast:(A4クリアファイルを横にしか使えません）
+[fast.stl](fast.stl)
 
 ![printed viser](../images/ver2-2.jpeg)
 
@@ -27,7 +27,7 @@ fast:A4クリアファイルを横にしか使えない
 print this pdf file. (pdfファイルを印刷してください）
 
 fast:A4クリアファイルを横にしか使えない
-[台紙A4横](hole-fast.pdf)
+[台紙fast](hole-fast.pdf)
 
 ![printed viser](../images/ver2-3.jpeg)
 
