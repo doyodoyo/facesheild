@@ -59,7 +59,7 @@ make holes with a hole punch(穴あけパンチで穴を開けます）
 ![makehole](../images/6.jpeg)
 
 ## assemble
-assemble viser and file folder （組み立てます。）
+assemble parts and file folder （組み立てます。）
 
 ![assemble](../images/fastV-03.jpeg)
 
