@@ -59,7 +59,7 @@
 ## easyモデル
 特徴：フィット感がある、バンドは通常の輪ゴムを使える、クリアファイルの穴が開けやすい、A4クリアファイル横向きのみ
 
-データと作り方は[ここ](ver1_4hole/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。ゴム掛け部分は[3DVerkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)のオープンソースデザインを参考にしています。
+データと作り方は[ここ](ver1_4hole/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。ゴム掛け部分は[3DVerkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)のオープンソースデザイン(CC-BY-SA)を参考にしています。ご使用する場合はクリエイティブコモンズに準拠してください。
 
 フィット感が良い。穴の間隔が穴あけパンチの間隔になっているので、穴あけが簡単。
 造形時間は少し長い(60分)参考原価（42円）
