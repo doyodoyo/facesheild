@@ -70,7 +70,7 @@
 ## basicモデル（初期）
 初期版ですので、上記のモデルに比べてメリットはあまりありません。
 
-データと作り方は[ここ](ver1_3hole/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。ゴム掛け部分は[3DVerkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)のオープンソースデザインを参考にしています。
+データと作り方は[ここ](ver1_3hole/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。ゴム掛け部分は[3DVerkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)のオープンソースデザイン(CC-BY-SA)を参考にしています。
 
 フィット感は最も良い。
 造形時間は少し長い(64分)参考原価（45円）
