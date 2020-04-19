@@ -1,10 +1,13 @@
 # はじめに -DOYO model
 フェイスシールドDOYO modelは3Dプリントとクリアファイルで作るオープンソースのフェイスシールドです。様々な方が本データを使ったり改変したりして、フェイスシールドが必要な場所に届けばと思い、改良を繰り返しながらデータを公開しております。改変なども自由に行ってください。
-みなさまの使っている姿を見ることが励みになります。SNSで#doyomodel とハッシュタグをつけて投稿もしくは、時間に余裕のある際にでもdoyo@kanagawa-u.ac.jpに写真をお送りいただけると大変嬉しいです。また、販売、配布等する場合は、[クリエイティブコモンズBYSA](https://creativecommons.org/licenses/by-sa/3.0/deed.ja)に準拠した利用をお願いいたします。少しでも多くの方が安心できる状況になることを切に願っております。
+みなさまの使っている姿を見ることが励みになります。SNSで#doyomodel とハッシュタグをつけて投稿もしくは、時間に余裕のある際にでもdoyo@kanagawa-u.ac.jpに写真をお送りいただけると大変嬉しいです。また、販売、配布等する場合は、[クリエイティブコモンズBYSA](https://creativecommons.org/licenses/by-sa/3.0/deed.ja)に準拠した利用をお願いいたします。easyモデルはつるの部分をスウェーデンのオープンソースモデル[3DVerkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)を採用していますが、そのモデルも(CCBYSA)です。少しでも多くの方が安心できる状況になることを切に願っております。
 
 道用大介
 
 ![クリエイティブコモンズCCBY](images/by-sa.png)
+
+
+3Dプリントに相談したい場合の地域の相談ポイントは[こちら](https://docs.google.com/spreadsheets/d/16uBDolQvzngyMJQvsT39ABCoXYZEh3b5nu410ns1KtE/edit?usp=sharing)（各拠点で作っているフェイスシールドも異なるのでご容赦ください）
 
 
 
@@ -59,7 +62,7 @@
 ## easyモデル
 特徴：バンドは通常の輪ゴムを使える、クリアファイルの穴が開けやすい、A4クリアファイル横向きのみ
 
-データと作り方は[ここ](ver1_4hole/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。つるの部分はオープンソースデザインの[3DVerkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)(CC-BY-SA)を改変したものです。ご使用する場合はクリエイティブコモンズに準拠してください。
+データと作り方は[ここ](ver1_4hole/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。つるの部分はオープンソースデザインの[3DVerkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)(CC-BY-SA)を採用したものです。ご使用する場合はクリエイティブコモンズに準拠してください。
 
 穴の間隔が穴あけパンチの間隔になっているので、穴あけが簡単。
 造形時間は少し長い(60分)参考原価（42円）
