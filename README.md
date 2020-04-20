@@ -1,6 +1,6 @@
 # はじめに -DOYO model
 フェイスシールドDOYO modelは3Dプリントとクリアファイルで作るオープンソースのフェイスシールドです。様々な方が本データを使ったり改変したりして、フェイスシールドが必要な場所に届けばと思い、改良を繰り返しながらデータを公開しております。改変なども自由に行ってください。
-みなさまの使っている姿を見ることが励みになります。SNSで#doyomodel とハッシュタグをつけて投稿もしくは、時間に余裕のある際にでもdoyo@kanagawa-u.ac.jpに写真をお送りいただけると大変嬉しいです。また、販売、配布等する場合は、[クリエイティブコモンズBYSA](https://creativecommons.org/licenses/by-sa/3.0/deed.ja)に準拠した利用をお願いいたします。easyモデルはつるの部分をスウェーデンのオープンソースモデル[3DVerkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)を採用していますが、そのモデルも(CCBYSA)です。少しでも多くの方が安心できる状況になることを切に願っております。
+みなさまの使っている姿を見ることが励みになります。SNSで#doyomodel とハッシュタグをつけて投稿もしくは、時間に余裕のある際にでもdoyo@kanagawa-u.ac.jpに写真をお送りいただき、アイディアの共有や使用している姿を見せていただけると大変嬉しいです。また、販売、配布等する場合は、[クリエイティブコモンズBYSA](https://creativecommons.org/licenses/by-sa/3.0/deed.ja)に準拠した利用をお願いいたします。easyモデルはつるの部分をスウェーデンのオープンソースモデル[3DVerkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)を採用していますが、そのモデルも(CCBYSA)です。少しでも多くの方が安心できる状況になることを切に願っております。
 
 道用大介
 
@@ -56,7 +56,7 @@
 データと作り方は[ここ](ver2_hybrid/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。
 
 穴の間隔が穴あけパンチの間隔になっているので、穴あけが簡単。
-造形時間はfastモデルより少し長くかかりますが短いです（42分）。参考単価(27円)
+造形時間はfastモデルより少し長くかかりますが短いです（42分）。参考単価(27円)　造形サイズ161mm×94.8mmm×5mm
 
 ![printed viser](images/ver2h-1.png)
 
@@ -68,7 +68,7 @@
 データと作り方は[ここ](ver1_4hole/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。つるの部分はオープンソースデザインの[3DVerkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)(CC-BY-SA)を採用したものです。ご使用する場合はクリエイティブコモンズに準拠してください。
 
 穴の間隔が穴あけパンチの間隔になっているので、穴あけが簡単。
-造形時間は少し長い(60分)参考原価（42円）
+造形時間は少し長い(60分)参考原価（42円） 　造形サイズ153.4mm×198.8mmm×5mm
 
 
 ![printed viser](images/ver1-2_1.jpeg)
