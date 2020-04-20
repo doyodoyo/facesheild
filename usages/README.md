@@ -7,7 +7,7 @@
 
 ![ex1](images/ex1.jpg)
 
-![ex1](images/ex1.jpg)
+![ex1](images/ex2.jpg)
 
 ## Facebookより
 
