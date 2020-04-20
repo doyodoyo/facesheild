@@ -17,6 +17,8 @@
 
 [シールドがポップに！？](https://www.facebook.com/doyo.daisuke/posts/2697922853667372?notif_id=1587383455306069&notif_t=feedback_reaction_generic)
 
+[金型を起こして量産](https://www.facebook.com/AnjoHeartsPROJECT/photos/a.269983163024419/3060270233995684/?type=3&theater)
+
 ## Twitterより
 
 [縮小して3Dプリント](https://twitter.com/hnakashima68/status/1251785209571233792?s=20)
