@@ -26,4 +26,5 @@
 ## ニュース
 
 [愛知県の企業が連携し生産へ](https://www.chunichi.co.jp/article/aichi/20200415/CK2020041502000007.html) 
+
 [山梨県産業技術センターがデータを改変して、生産へ](https://www3.nhk.or.jp/lnews/kofu/20200420/1040009501.html?fbclid=IwAR1uzajhHh1KLtxE0UNZg2SWCiu3LcCxEEYk1E1NLcghTEiGIR1YbIpcXaE)
