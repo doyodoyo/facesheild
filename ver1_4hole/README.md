@@ -16,13 +16,17 @@
 
 ## 3DPrint
 3print this stl file. （このstlファイルをダウンロードして3Dプリントしてください）
-[stlファイル](viser_ver1_4hole.stl)
+[stlファイル](easy.stl)
+
+
+[10個まとめ作り用stlファイル](easyX10.stl)
+
 
 ![printed viser](../images/ver1-2_1.jpeg)
 
 ## print
 print this pdf file. (このpdfファイルを印刷してください）
-[穴位置ファイル](hole_ver1_4hole.pdf)
+[穴位置ファイル](hole_easy.pdf)
 
 ![printed paper](../images/ver1-2_2.jpeg)
 
