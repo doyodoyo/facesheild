@@ -25,11 +25,15 @@ A4クリアファイルを縦横どちらの向きにでも使えます。
 
 ![printed viser](../images/ver2-2.jpeg)
 
+まとめづくりは0.2mm間隔であけてあります。
+
 [10個まとめ作り用データ](fast-typeVX10.stl)
+
+[20個まとめ作り用データ](fast-typeVX20.stl)
 
 [10個まとめ作り用データ(丸みをつけて一つ一つ剥がしやすい)](fillet-type/fast-typeV-fX10.stl)
 
-[20個まとめ作り用データ](fast-typeVX20.stl)
+[20個まとめ作り用データ(丸みをつけて一つ一つ剥がしやすい)](fillet-type/fast-typeV-fX20.stl)
 
 ![printed viser](../images/fastV-05.jpeg)
 
