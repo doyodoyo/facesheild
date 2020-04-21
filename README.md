@@ -9,6 +9,7 @@
 
 3Dプリントに相談したい場合の地域の相談ポイントは[こちら](https://docs.google.com/spreadsheets/d/16uBDolQvzngyMJQvsT39ABCoXYZEh3b5nu410ns1KtE/edit?usp=sharing)（各拠点で作っているフェイスシールドも異なるのでご容赦ください）
 
+3Dプリント相談ポイントとしてご協力いただける方は[ここ](https://forms.gle/3gCf4FpoS1H5TjuS8)から登録をお願いします。登録すると、すぐスプレッドシートに反映されます。
 
 
 # 作ったものを他人に渡す場合の注意
