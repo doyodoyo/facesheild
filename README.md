@@ -76,6 +76,8 @@
 
 
 ## 初期モデル
-特徴：頑丈。A4クリアファイル横向きのみ.他のモデルに比べて特にメリットがないためおすすめしていません。
+特徴：頑丈。A4クリアファイル横向きのみ.
+
+データと作り方は[ここ](ver1_3hole/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。つるの部分はオープンソースデザインの[3DVerkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)(CC-BY-SA)を採用したものです。ご使用する場合はクリエイティブコモンズに準拠してください。
 
 ![printed viser](images/1.jpeg)
