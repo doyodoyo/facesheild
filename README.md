@@ -73,3 +73,9 @@
 
 
 ![printed viser](images/ver1-2_1.jpeg)
+
+
+## 初期モデル
+特徴：頑丈。A4クリアファイル横向きのみ.他のモデルに比べて特にメリットがないためおすすめしていません。
+
+![printed viser](images/1.jpeg)
