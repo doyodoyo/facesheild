@@ -67,7 +67,7 @@
 ## easyモデル
 特徴：バンドは通常の輪ゴムを使える、クリアファイルの穴が開けやすい、A4クリアファイル横向きのみ
 
-データと作り方は[ここ](ver1_4hole/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。つるの部分はオープンソースデザインの[3DVerkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)(CC-BY-SA)を採用したものです。ご使用する場合はクリエイティブコモンズに準拠してください。
+データと作り方は[ここ](ver1_4hole/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。つるの部分はオープンソースデザインの[3DVerkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)(CC-BY-SA)を採用したものです。
 
 穴の間隔が穴あけパンチの間隔になっているので、穴あけが簡単。
 造形時間は少し長い(60分)参考原価（42円） 　造形サイズ153.4mm×198.8mmm×5mm
@@ -79,6 +79,6 @@
 ## 初期モデル
 特徴：頑丈。A4クリアファイル横向きのみ.
 
-データと作り方は[ここ](ver1_3hole/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。つるの部分はオープンソースデザインの[3DVerkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)(CC-BY-SA)を採用したものです。ご使用する場合はクリエイティブコモンズに準拠してください。
+データと作り方は[ここ](ver1_3hole/README.md)を参照してください。クリアファイルの穴あけ方法も書いてあります。つるの部分はオープンソースデザインの[3DVerkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)(CC-BY-SA)を採用したものです。
 
 ![printed viser](images/1.jpeg)
