@@ -46,11 +46,11 @@ print this pdf file. (pdfファイルを印刷してください）
 FabNurseプロジェクトモデル（医療現場の意見を取り入れた配置）
 [fabnurse_pdfファイル](hole-fast-V-curve.pdf)
 
-簡易版
-[pdfファイル](hole-fast-typeV.pdf)
-
-
 ![printed viser](../images/fastV-02.jpeg)
+
+
+簡易版
+[簡易的な穴あけ_pdfファイル](hole-fast-typeV.pdf)
 
 ## cut
 cut the file folder(クリアファイルをカッターで半分に切ります）
