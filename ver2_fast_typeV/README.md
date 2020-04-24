@@ -43,7 +43,11 @@ A4クリアファイルを縦横どちらの向きにでも使えます。
 ## print
 print this pdf file. (pdfファイルを印刷してください）
 
-[fast-typeV.stl](hole-fast-typeV.pdf)
+FabNurseプロジェクトモデル（医療現場の意見を取り入れた配置）
+[fabnursepdfファイル](hole-fast-V-curve.pdf)
+
+簡易版
+[pdfファイル](hole-fast-typeV.pdf)
 
 
 ![printed viser](../images/fastV-02.jpeg)
