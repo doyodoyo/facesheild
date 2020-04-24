@@ -50,7 +50,7 @@ FabNurseプロジェクトモデル（医療現場の意見を取り入れた配
 [pdfファイル](hole-fast-typeV.pdf)
 
 
-![printed viser](../images/fastV-02.png)
+![printed viser](../images/fastV-02.jpeg)
 
 ## cut
 cut the file folder(クリアファイルをカッターで半分に切ります）
