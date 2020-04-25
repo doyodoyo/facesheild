@@ -21,6 +21,10 @@
 
 [10個まとめ作り用stlファイル](easyX10.stl)
 
+[20個まとめ作り用stlファイル](easyX20.stl)
+
+[30個まとめ作り用stlファイル](easyX30.stl)
+
 
 ![printed viser](../images/ver1-2_1.jpeg)
 
