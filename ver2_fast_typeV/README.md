@@ -49,6 +49,7 @@ A4クリアファイルを縦横どちらの向きにでも使えます。
 print this pdf file. (pdfファイルを印刷してください）
 
 FabNurseプロジェクトモデル（医療現場の意見を取り入れた配置）
+穴の位置に工夫がされており、シールド部分に適切な角度がつくようになっています。
 [fabnurse_pdfファイル](hole-fast-V-curve.pdf)
 
 ![printed viser](../images/fastV-02.jpeg)
