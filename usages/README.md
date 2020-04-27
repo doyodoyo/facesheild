@@ -35,6 +35,7 @@
 
 [寄贈のニュース（山形県）](https://www3.nhk.or.jp/lnews/yamagata/20200424/6020006694.html)
 
+[寄贈のニュース（静岡県）](https://www.at-s.com/news/article/topics/shizuoka/758964.html)
 
 ## ミクロン精機さんのスポンジアレンジ
 
