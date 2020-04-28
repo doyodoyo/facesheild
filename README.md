@@ -8,7 +8,7 @@
 
 # 地域3Dプリント相談ポイント
 
-3Dプリントに相談したい場合の地域の相談ポイントは[こちら](https://docs.google.com/spreadsheets/d/16uBDolQvzngyMJQvsT39ABCoXYZEh3b5nu410ns1KtE/edit?usp=sharing)（各拠点で作っているフェイスシールドも異なるのでご容赦ください）
+3Dプリントに相談したい場合の地域の相談ポイントは[こちら](https://docs.google.com/spreadsheets/d/16uBDolQvzngyMJQvsT39ABCoXYZEh3b5nu410ns1KtE/edit?usp=sharing)（各拠点で推奨するフェイスシールドは異なる場合もあるのでご容赦ください）
 
 3Dプリント相談ポイントとしてご協力いただける機関、団体、企業等の方は[ここ](https://forms.gle/3gCf4FpoS1H5TjuS8)から登録をお願いします。登録すると、すぐに上記のスプレッドシートに反映され、3Dプリント相談ポイントとして公開されます。
 
