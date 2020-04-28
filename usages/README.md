@@ -37,6 +37,6 @@
 
 [寄贈のニュース（静岡県）](https://www.at-s.com/news/article/topics/shizuoka/758964.html)
 
-## ミクロン精機さんのスポンジアレンジ
+## ミクロン精密さんのスポンジアレンジ
 
 ![ex3](images/ex3.jpg)
