@@ -44,3 +44,7 @@
 ## 大阪の金海さんの穴あけ治具
 
 ![jig](images/jig.jpeg)
+
+## 心の距離を縮める工夫
+
+![h1](images/h1.jpg)![h2](images/h2.png)
