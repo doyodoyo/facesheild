@@ -36,6 +36,10 @@ A4クリアファイルを縦横どちらの向きにでも使えます。
 
 [20個まとめ作り用データ](fast-typeVX20.stl)
 
+[25個まとめ作り用データ](fast-typeVX25.stl)
+
+[30個まとめ作り用データ](fast-typeVX30.stl)
+
 [10個まとめ作り用データ(丸みをつけて一つ一つ剥がしやすい)](fillet-type/fast-typeV-fX10.stl)
 
 [20個まとめ作り用データ(丸みをつけて一つ一つ剥がしやすい)](fillet-type/fast-typeV-fX20.stl)
