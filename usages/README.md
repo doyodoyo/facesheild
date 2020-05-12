@@ -39,8 +39,6 @@
 
 [学校での活用のニュース（宮城県）](https://www.kahoku.co.jp/tohokunews/202005/20200510_13010.html)
 
-[学校での活用のニュース（宮城県）](https://www.kahoku.co.jp/tohokunews/202005/20200510_13010.html)
-
 ## ミクロン精密さんのスポンジアレンジ
 
 ![ex3](images/ex3.jpg)
