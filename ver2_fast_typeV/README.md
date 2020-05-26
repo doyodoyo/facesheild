@@ -65,6 +65,7 @@ FabNurseプロジェクトモデル（医療現場の意見を取り入れた配
 ![printed viser](../images/fastV-02-1.jpeg)
 
 [簡易的な穴あけA4横_pdfファイル](hole-fast-typeV-2.pdf)
+両端の穴は開けなくても機能します。お好みで使用してください。
 
 ![printed viser](../images/fastV-02-2.jpeg)
 
