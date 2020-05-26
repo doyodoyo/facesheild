@@ -66,6 +66,8 @@ FabNurseプロジェクトモデル（医療現場の意見を取り入れた配
 
 [簡易的な穴あけA4横_pdfファイル](hole-fast-typeV-2.pdf)
 
+![printed viser](../images/fastV-02-2.jpeg)
+
 ## cut
 cut the file folder(クリアファイルをカッターで半分に切ります）
 
