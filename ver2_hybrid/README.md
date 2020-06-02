@@ -23,6 +23,9 @@
 3print this stl file. （このstlファイルをダウンロードして3Dプリントしてください）
 [stlファイル](viser_ver2_hybrid.stl)
 
+[ファブラボ世田谷さんか改変したちょっと幅広なstlファイル](https://drive.google.com/file/d/1EGZvB9iBAc40ajp4NwlTgJGJg0PznhN4/view?fbclid=IwAR286P9mHFtgQ6BcotR-4c1KeuPdTNW2sJTO2Oub1x7j_ZLISSPhMhegJrw)
+穴位置は同じでうs。
+
 ![printed viser](../images/ver2h-1.png)
 
 
