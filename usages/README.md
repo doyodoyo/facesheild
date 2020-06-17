@@ -5,7 +5,7 @@
 ##マウスシールドにもなる
 fast-Vはマウスシールドにもなります。
 
-![mousesheild](images/mousesheild.jpeg)
+![mousesheild](../images/mousesheild.jpeg)
 
 
 ## 穴の位置にカーブを持たせて、カーブ
